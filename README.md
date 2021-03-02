@@ -1,14 +1,14 @@
-<h1><a href="https://www.weltpixel.com/magento-2-success-page.html">Magento 2 Checkout Success Page by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento-2-success-page.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Checkout Success Page by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-2-success-page.html"><img src="https://www.weltpixel.com/media/catalog/product/0/5/05._checkout_success_page_1_1.png" alt="Checkout Success Page by Weltpixel"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento-2-success-page.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/0/5/05._checkout_success_page_1_1.png" alt="Checkout Success Page by Weltpixel"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	  	  	<h1>ABOUT THE MAGENTO 2 CHECKOUT SUCCESS PAGE.</h1>
-  	<p>
+            <h1>ABOUT THE MAGENTO 2 CHECKOUT SUCCESS PAGE.</h1>
+    <p>
 The WeltPixel Magento 2 Success Page allows merchants to take full control of their Success Page and add new elements like Newsletter subscribe, custom blocks with relevant information for customers and a Google Map. The new modern responsive design as well as enhanced control over each page element offers great utility and a new way to connect with and inform your final customers.
     </p>
     <p>
@@ -18,8 +18,8 @@ By installing this extension, new options will become available in your Magento 
 The Success Page is a great way to connect with your customers. Offering relevant information about the order and delivery process will most likely save support time and will provide the customer a smooth shopping experience with your business. Also, customers are more likely to connect with you after a purchase, so offering a pre-populated one click away subscribe option will help in this regard.
     </p>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-thankyoupage/NewImages/frontend-02.png"></p>
-         <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-success-page.html">Checkout Success Page by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+         <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-success-page.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Checkout Success Page by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
                             </div></td>
  </tr>
 </table>
@@ -201,8 +201,8 @@ The Success Page is a great way to connect with your customers. Offering relevan
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                                                                  <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -368,4 +368,4 @@ Go to <strong>Admin sidebar → WeltPixel → Thank You Page</strong>.
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-success-page.html">Magento 2 Checkout Success Page by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-success-page.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Checkout Success Page by WeltPixel.</a></h3>
